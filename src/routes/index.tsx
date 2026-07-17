@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef, type ReactNode } from "react";
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SiteLayout, Section, Eyebrow } from "@/components/SiteLayout";
-import p1 from "@/assets/Intro.jpg"; 
+import p1 from "@/assets/intro.jpg"; 
 import philosophyImg from "@/assets/philosophy.jpg"; 
 import p2 from "@/assets/project-2.jpg";
 import p3 from "@/assets/project-3.jpg";
