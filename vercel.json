@@ -1,6 +1,6 @@
 {
-  "outputDirectory": ".output/public",
-  "cleanUrls": true,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/client",
   "rewrites": [
     {
       "source": "/(.*)",
